@@ -3,4 +3,9 @@
 # only main files contain this front matter, not partials.
 ---
 
-@import "hydeout";
+html,
+body {
+  background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+}
